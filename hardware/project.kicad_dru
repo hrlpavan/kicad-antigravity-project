@@ -1,0 +1,24 @@
+(version 1)
+
+# KiCad evaluates rules bottom-up (more specific rules go at the bottom).
+
+(rule "Global Minimum Clearance"
+    (constraint clearance (min 0.20mm))
+)
+
+(rule "Signal Track Width"
+    (layer outer)
+    (condition "A.Type == 'track'")
+    (constraint track_width (min 0.25mm))
+)
+
+(rule "Mounting Hole Clearance"
+    (condition "A.Type == 'pad' && A.Pad_Type == 'NPTH, mechanical'")
+    (constraint clearance (min 0.50mm))
+)
+
+(rule "Power Net Track Width"
+    (layer outer)
+    (condition "A.Type == 'track' && A.NetClass == 'Power'")
+    (constraint track_width (min 0.50mm) (opt 0.75mm) (max 1.00mm))
+)

@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "kicad": {
+      "command": "bash",
+      "args": [
+        "scripts/kicad_bridge_ssh.sh"
+      ],
+      "env": {
+        "KICAD_BRIDGE_IFACE": "bridge0",
+        "KICAD_REMOTE_OS": "windows",
+        "KICAD_SSH_USER": "Neil Gibson Pinto",
+        "KICAD_SSH_HOST": "",
+        "KICAD_FALLBACK_HOST": "192.168.250.243",
+        "KICAD_MCP_PROJECT_DIR": "C:/kicad-antigravity-project/hardware",
+        "KICAD_MCP_PROFILE": "agent_full",
+        "KICAD_MCP_OPERATING_MODE": "experimental"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+
+# KiCad Backups and Locks
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*-bak
+*.bck
+_autosave-*
+*.tmp
+*.lck
+
+# Logs
+*.log

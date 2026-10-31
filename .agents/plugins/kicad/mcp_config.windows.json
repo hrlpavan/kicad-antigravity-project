@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kicad": {
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "scripts\\run_kicad_mcp_windows.bat"
+      ]
+    }
+  }
+}

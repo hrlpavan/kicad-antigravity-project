@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kicad": {
+      "command": "bash",
+      "args": [
+        "-c",
+        "PATH=\"/Applications/KiCad/KiCad.app/Contents/MacOS:$PATH\" KICAD_MCP_PROJECT_DIR=\"$(pwd)/hardware\" KICAD_MCP_PROFILE=\"agent_full\" KICAD_MCP_OPERATING_MODE=\"experimental\" uvx kicad-mcp-pro"
+      ]
+    }
+  }
+}

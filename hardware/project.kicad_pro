@@ -1,0 +1,48 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.1,
+        "copper_line_width": 0.2,
+        "copper_text_size_h": 1.5,
+        "copper_text_size_v": 1.5,
+        "copper_text_thickness": 0.3
+      },
+      "rules": {
+        "min_clearance": 0.2,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.2,
+        "min_via_annular_width": 0.15,
+        "min_via_diameter": 0.6
+      }
+    }
+  },
+  "meta": {
+    "filename": "project.kicad_pro",
+    "version": 1
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "clearance": 0.2,
+        "name": "Default",
+        "track_width": 0.25,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.25,
+        "name": "Power",
+        "track_width": 0.5,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      }
+    ],
+    "meta": {
+      "version": 3
+    },
+    "netclass_assignments": {
+      "+5V": "Power"
+    }
+  }
+}
