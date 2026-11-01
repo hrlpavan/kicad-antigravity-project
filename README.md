@@ -1,4 +1,4 @@
-# ⚡ Autonomous KiCad MCP + Antigravity PCB Design System
+#  Autonomous KiCad MCP + Antigravity PCB Design System
 
 <div align="center">
 
