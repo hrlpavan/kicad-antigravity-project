@@ -13,11 +13,11 @@
 
 <br/>
 
-[![Install Pro Agent Skill on Agensi](https://img.shields.io/badge/Agensi_Pro_Skill-Install_in_Claude_Code_%7C_Cursor_%7C_Copilot_%2429-10B981?style=for-the-badge)](https://www.agensi.io/creators/pavan-kumar)
+[![Install Pro Agent Skill on Agensi](https://img.shields.io/badge/Agensi_Pro_Skill-Install_in_Claude_Code_%7C_Cursor_%7C_Copilot_%2439-10B981?style=for-the-badge)](https://www.agensi.io/creators/pavan-kumar)
 
 </div>
 
-> **Deploy as an Autonomous Agent Skill (`$29` Pro Package on Agensi)**: Want Claude Code, Cursor, GitHub Copilot, Gemini CLI, or Antigravity to execute the full **6-Phase Closed-Loop PCB Protocol**, JLCPCB/PCBWay `.kicad_dru` DFM enforcement, IPC-2221 ampacity sizing, and automated `0`-DRC Gerber export out of the box? **[Get KiCad Autonomous PCB & MCP Orchestrator Pro on Agensi](https://www.agensi.io/creators/pavan-kumar)**.
+> **Deploy as an Autonomous Agent Skill (`$39` Pro Package on Agensi)**: Want Claude Code, Cursor, GitHub Copilot, Gemini CLI, or Antigravity to execute the full **6-Phase Closed-Loop PCB Protocol**, JLCPCB/PCBWay `.kicad_dru` DFM enforcement, IPC-2221 ampacity sizing, and automated `0`-DRC Gerber export out of the box? **[Get KiCad Autonomous PCB & MCP Orchestrator Pro on Agensi](https://www.agensi.io/creators/pavan-kumar)**.
 
 ---
 
