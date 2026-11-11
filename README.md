@@ -11,7 +11,13 @@
 
 **A complete, cross-platform autonomous PCB design architecture enabling AI agents (Google Antigravity, Claude, Cursor) to directly manipulate, route, inspect, and verify KiCad hardware projects over high-speed Thunderbolt 4 / USB4 bridges, local networks, or native OS runtimes.**
 
+<br/>
+
+[![Install Pro Agent Skill on Agensi](https://img.shields.io/badge/Agensi_Pro_Skill-Install_in_Claude_Code_%7C_Cursor_%7C_Copilot_%2429-10B981?style=for-the-badge)](https://www.agensi.io/creators/pavan-kumar)
+
 </div>
+
+> **Deploy as an Autonomous Agent Skill (`$29` Pro Package on Agensi)**: Want Claude Code, Cursor, GitHub Copilot, Gemini CLI, or Antigravity to execute the full **6-Phase Closed-Loop PCB Protocol**, JLCPCB/PCBWay `.kicad_dru` DFM enforcement, IPC-2221 ampacity sizing, and automated `0`-DRC Gerber export out of the box? **[Get KiCad Autonomous PCB & MCP Orchestrator Pro on Agensi](https://www.agensi.io/creators/pavan-kumar)**.
 
 ---
 
